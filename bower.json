@@ -1,0 +1,30 @@
+{
+  "name": "pdfjs-dist-ugly",
+  "version": "1.1.366",
+  "description": "Minified JS assets created from pdfjs-dist",
+  "authors": [
+    "Matthias Bärwolff <matthias.baerwolff@epost-dev.de>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "pdfjs",
+    "uglifyjs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mbaer3000/pdfjs-dist-ugly"
+  },
+  "main": [
+    "dist/pdf.combined.min.js",
+    "dist/pdf.min.js",
+    "dist/pdf.worker.min.js"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "devDependencies": {
+    "pdfjs-dist": "1.1.366"
+  }
+}

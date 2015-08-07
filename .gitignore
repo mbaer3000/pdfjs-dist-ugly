@@ -1,0 +1,14 @@
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories and management
+/node_modules
+/bower_components
+
+# IDE configuration
+.emacs.js.el
+/.idea
+
+# OS specific files
+.DS_Store

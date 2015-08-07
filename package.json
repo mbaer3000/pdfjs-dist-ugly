@@ -1,0 +1,22 @@
+{
+  "name": "pdfjs-dist-ugly",
+  "version": "1.1.366",
+  "description": "Minified JS assets created from pdfjs-dist",
+  "author": "Matthias Bärwolff <matthias.baerwolff@epost-dev.de>",
+  "license": "MIT",
+  "keywords": [
+    "pdfjs",
+    "uglifyjs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mbaer3000/pdfjs-dist-ugly"
+  },
+  "devDependencies": {
+    "grunt": "0.4.*",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-uglify": "0.9.*",
+    "grunt-shrinkwrapsy": "^0.1.2"
+  },
+  "dependencies": {}
+}
