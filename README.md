@@ -1,6 +1,6 @@
 # Uglify pdfjs-dist assets
 
-This is fresh and experimental, expect things to settle within a couple of weeks.
+This is fresh and experimental, but it does work.
 
 ## Are we always in sync with pdfjs-dist?
 
