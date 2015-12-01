@@ -4,6 +4,7 @@
 
 - check the newest pdfjs-dist version number
 - replace this number in package.json (version) and bower.json (version, devDependencies[pdfjs-dist])
+- npm shrinkwrap --dev
 - run bower install
 - run grunt
 
