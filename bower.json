@@ -1,6 +1,6 @@
 {
   "name": "pdfjs-dist-ugly",
-  "version": "1.3.44",
+  "version": "1.4.91",
   "description": "Minified JS assets created from pdfjs-dist",
   "authors": [
     "Matthias Bärwolff <matthias.baerwolff@epost-dev.de>"
@@ -25,6 +25,6 @@
     "bower_components"
   ],
   "devDependencies": {
-    "pdfjs-dist": "1.3.44"
+    "pdfjs-dist": "1.4.91"
   }
 }
